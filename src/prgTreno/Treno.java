@@ -11,7 +11,7 @@ package prgTreno;
  * </UL>
 
  * @author antonio gervasi
- * versione 1
+ * versione 2
  */
 public class Treno {
 	/**
