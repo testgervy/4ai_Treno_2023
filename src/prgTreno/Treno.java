@@ -12,6 +12,7 @@ package prgTreno;
 
  * @author antonio gervasi
  * versione 3
+ * versione 4 on line
  */
 public class Treno {
 	/**
